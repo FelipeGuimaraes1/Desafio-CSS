@@ -87,7 +87,7 @@ p {
     .button-sign-up {
         position: absolute;
         top: 17px;
-        right: 15px;
+        right: -100px;
         width: 91px;
         height: 31px
         border: 1px
